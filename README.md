@@ -13,10 +13,20 @@ ESX Fivem drug creator using ox lib
 
 # Features #
 -- Custom drugs
+
+
 -- Admins can create/delete drugs ingame
+
+
 -- Editable effects (speed, health, armor and more)
+
+
 -- Harvest drug
+
+
 -- Whitelisted jobs allowed for drugs
+
+
 -- Drug editor (delete drug, edit drug and edit drug position)
 
 
